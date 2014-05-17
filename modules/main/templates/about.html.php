@@ -15,13 +15,13 @@
 		
 		
 		<br>
-		<b>NOTE: 32 files have been changed in The Bug Genie v3.2.7.1 release and 2 added to accomplish and explain a template change entitled nitrogen.</b>
+		<b>NOTE: 33 files have been changed in The Bug Genie v3.2.7.1 release and 2 added to accomplish and explain a template change entitled nitrogen.</b>
 		<br>
 		To compare CURRENT differences between the nitrogen template remix of TBG files and the original TBG v3.2.7.1 files, please visit <a target="_blank" href="https://github.com/virtualdavid/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1"> https://github.com/virtualdavid/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1 </a> <i>(opens in a new window)</i><br>
 		<br>
 		To see screenshots and read a detailed explanation about the remix go here <a target="_blank" href="http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557"> http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557 </a> <i>(opens in a new window)</i><br>
 		<br>
-		To download a copy of the template files go here <a target="_blank" href="https://sourceforge.net/projects/helpgivethanks/"> https://sourceforge.net/projects/helpgivethanks/ </a> <i>(opens in a new window)</i><br>
+		To download a copy of the template files go here <a target="_blank" href="https://sourceforge.net/projects/helpgivethanks/"> https://sourceforge.net/projects/helpgivethanks/ </a> <i>(opens in a new window)</i> The ReadME.txt file that comes with this template explains how to customize the template files for your Bug Genie, and then perform a simple drop-in replace to affect the template’s changes.<br>
 		<br>	
 		<br>	
 		
