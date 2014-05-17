@@ -15,7 +15,7 @@
 		
 		
 		<br>
-		<b>NOTE: 32 files have been changed and 2 added from the original The Bug Genie v3.2.7.1 release to accomplish a template change entitled nitrogen.</b>
+		<b>NOTE: 32 files have been changed in The Bug Genie v3.2.7.1 release and 2 added to accomplish and explain a template change entitled nitrogen.</b>
 		<br>
 		To compare CURRENT differences between the nitrogen template remix of TBG files and the original TBG v3.2.7.1 files, please visit <a target="_blank" href="https://github.com/virtualdavid/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1"> https://github.com/virtualdavid/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1 </a> <i>(opens in a new window)</i><br>
 		<br>
