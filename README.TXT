@@ -4,7 +4,7 @@ To compare CURRENT differences between the nitrogen template remix of TBG files 
 
 To see screenshots and read a detailed explanation about the remix go here http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557.
 
-To download a copy of the template files go here https://sourceforge.net/projects/helpgivethanks/.  The ReadME.txt file that comes with this template explains how to customize the files for your Bug Genie, and then perform a simple drop-in replace to affect the template’s changes.
+To download a copy of the template files go here https://sourceforge.net/projects/helpgivethanks/.  The ReadME.txt file that comes with this template explains how to customize the template files for your Bug Genie, and then perform a simple drop-in replace to affect the template’s changes.
 
 THE BUG GENIE VERSION 3
 -------
