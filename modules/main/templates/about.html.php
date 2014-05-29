@@ -36,17 +36,15 @@
 		<?php echo __('The Bug Genie uses icons from the %link_to_iconset%', array('%link_to_iconset%' => '<a href="http://www.oxygen-icons.org">Oxygen icon set</a>')); ?>.<br>
 		<?php echo __('These icons may be freely distributed under the %link_to_license%', array('%link_to_license%' => '<a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0 License</a>')); ?>.
 	</span>
-	
-	
 
 <div style="text-align: left; padding: 10px;">
 <br>
 		<b>The Nitrogen Template by David Matson </b> = 33 file changes and 2 additions to The Bug Genie (TGB) v3.2.7.1 primarily affecting its look and feel.  Thanks to Sharron Denice for code copied from TBG’s master branch to enable showing YouTube videos in text areas: https://github.com/thebuggenie/thebuggenie/commit/8005f8721b4fceaf725f7f36c61b077986251c7a
 		<br>
 		<br>
-		To compare CURRENT differences between the nitrogen template and original TBG v3.2.7.1 files, please visit <a target="_blank" href="https://github.com/virtualdavid/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1"> https://github.com/virtualdavid/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1 </a> <i>(opens in a new window)</i><br>
+		To compare CURRENT differences between the nitrogen template and original TBG v3.2.7.1 files, please visit <a target="_blank" href="https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1"> https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1 </a> <i>(opens in a new window)</i><br>
 		<br>
-		To see screenshots and read a detailed explanation about the remix go here <a target="_blank" href="http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557"> http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557 </a> <i>(opens in a new window)</i><br>
+		To see screenshots and read a detailed explanation about the template go here <a target="_blank" href="http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557"> http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557 </a> <i>(opens in a new window)</i><br>
 		<br>
 		To download a copy of the template files go here <a target="_blank" href="https://sourceforge.net/projects/helpgivethanks/"> https://sourceforge.net/projects/helpgivethanks/ </a> <i>(opens in a new window)</i> The ReadME.txt file that comes with this template explains how to customize the template files for your Bug Genie, and then perform a simple drop-in replace to affect the template’s changes.<br>
 		<br>
