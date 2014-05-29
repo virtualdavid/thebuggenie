@@ -46,7 +46,8 @@
 		<br>
 		To see screenshots and read a detailed explanation about the template go here <a target="_blank" href="http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557"> http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557 </a> <i>(opens in a new window)</i><br>
 		<br>
-		To download a copy of the template files go here <a target="_blank" href="https://sourceforge.net/projects/helpgivethanks/"> https://sourceforge.net/projects/helpgivethanks/ </a> <i>(opens in a new window)</i> The ReadME.txt file that comes with this template explains how to customize the template files for your Bug Genie, and then perform a simple drop-in replace to affect the template’s changes.<br>
+		To download a copy of the template files go here <a target="_blank" href="https://sourceforge.net/projects/helpgivethanks/"> https://sourceforge.net/projects/helpgivethanks/ </a> <i>(opens in a new window)</i> 
+		<br>
 		<br>
 The Nitrogen Template is also distributed under the MPL v1.1. as required in section 3.1. Application of License: “The Modifications which You create or to which You contribute are governed by the terms of this License…,” which can be <?php echo __('read at %link_to_MPL%', array('%link_to_MPL%' => '<a href="http://www.opensource.org/licenses/mozilla1.1.php">opensource.org</a>')); ?>.
 </div>
