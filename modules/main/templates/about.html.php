@@ -39,7 +39,7 @@
 
 <div style="text-align: left; padding: 10px;">
 <br>
-		<b>The Nitrogen Template by David Matson </b> = 33 file changes and 2 additions to The Bug Genie (TGB) v3.2.7.1 primarily affecting its look and feel.  Thanks to Sharron Denice for code copied from TBG’s master branch to enable showing YouTube videos in text areas: https://github.com/thebuggenie/thebuggenie/commit/8005f8721b4fceaf725f7f36c61b077986251c7a
+		<b>The Nitrogen Template</b> by David Matson = 33 minor file changes and 2 additions to The Bug Genie (TGB) v3.2.7.1 primarily affecting its look and feel.  Thanks to Sharron Denice for code copied from TBG’s master branch to enable showing YouTube videos in text areas: https://github.com/thebuggenie/thebuggenie/commit/8005f8721b4fceaf725f7f36c61b077986251c7a.  
 		<br>
 		<br>
 		To compare CURRENT differences between the nitrogen template and original TBG v3.2.7.1 files, please visit <a target="_blank" href="https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1"> https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1 </a> <i>(opens in a new window)</i>
