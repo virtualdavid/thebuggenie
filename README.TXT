@@ -55,12 +55,14 @@ http://issues.thebuggenie.com
 
 *NITROGEN TEMPLATE*
 
-The Nitrogen Template by David Matson = 33 file changes and 2 additions to The Bug Genie (TGB) v3.2.7.1 primarily affecting its look and feel. Thanks to Sharron Denice for code copied from TBG’s master branch to enable showing YouTube videos in text areas: https://github.com/thebuggenie/thebuggenie/commit/8005f8721b4fceaf725f7f36c61b077986251c7a
+The Nitrogen Template by David Matson = 33 minor file changes and 2 additions to The Bug Genie (TGB) v3.2.7.1 primarily affecting its look and feel. Thanks to Sharron Denice for code copied from TBG’s master branch to enable showing YouTube videos in text areas: https://github.com/thebuggenie/thebuggenie/commit/8005f8721b4fceaf725f7f36c61b077986251c7a.
 
-To compare CURRENT differences between the nitrogen template and original TBG v3.2.7.1 files, please visit https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1 (opens in a new window)
+To compare CURRENT differences between the nitrogen template and original TBG v3.2.7.1 files, please visit https://github.com/HelpGiveThanks/thebuggenie/compare/thebuggenie:branch-32...nitrogen?expand=1.
 
-To see screenshots and read a detailed explanation about the template go here http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557 (opens in a new window)
+To see screenshots and read a detailed explanation about the template go here http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691&sid=628e6e5f3027e56f07651c066c001557.
 
-To download a copy of the template files go here https://sourceforge.net/projects/helpgivethanks/ (opens in a new window)
+To download a copy of the template files and learn how to customize and install them via drop-in replace go here https://sourceforge.net/projects/helpgivethanks/
+
+The Nitrogen Template is part of the of Help Give Thanks Research Project Template: http://helpgivethanks.org/apps/thebuggenie/wiki/WebsiteTemplate.
 
 The Nitrogen Template is also distributed under the MPL v1.1. as required in section 3.1. Application of License: “The Modifications which You create or to which You contribute are governed by the terms of this License…,” which can be read at opensource.org. 
